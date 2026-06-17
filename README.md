@@ -84,4 +84,4 @@ To use your mobile phone as a secondary camera:
 
 ---
 
-*Built with ❤️ by Antigravity*
+*Built with ❤️ by Nishanth*
